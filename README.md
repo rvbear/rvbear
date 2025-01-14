@@ -4,7 +4,7 @@
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rvbear&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/rvbear?pet-id=666902276425662972"
-    width="600"
+    width="100%"
     height="200"
   />
 </a>
