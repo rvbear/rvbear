@@ -1,6 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=KyungMin%20KIM&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rvbear&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/rvbear?pet-id=666902276425662972"
+    width="600"
+    height="200"
+  />
+</a>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -33,4 +40,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbear&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+
+
     
