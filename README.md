@@ -52,7 +52,7 @@
             <td>
                 <div>
                     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-                    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white">
+                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white">
                     <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white">
                     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
                     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
