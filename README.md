@@ -30,8 +30,8 @@
             <td>
                 <div>
                     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">
-                    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-                    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
+                    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+                    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white">
                     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
                     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
                 </div>
